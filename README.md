@@ -121,4 +121,4 @@ Record a video of the practice’s functionality and upload it on youtube. The v
 
 ## Conclusion
 
-In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
+I had a hard time doing this practice, I think that the main problem is having class online. I think that it may be better to have a program that is simpler, but overall I learned how to do almost everything.
